@@ -1,4 +1,4 @@
-# DS5023-DS5023-Project-SuicideRates
+# DS5023-Project-SuicideRates
 Data Organization and Visualization Project
 
 This project analyzes global suicide rates from 1985 to 2016 using data provided by Kaggle’s Suicide Rates Overview dataset
