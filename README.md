@@ -1,4 +1,4 @@
-# DS5023-Data-Visualization-
+# DS5023-DS5023-Project-SuicideRates
 Data Organization and Visualization Project
 
 
